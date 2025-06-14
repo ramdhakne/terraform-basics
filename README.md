@@ -2,11 +2,13 @@
 terraform basics
 
 ## dir structure
+```
 ec2-instance/
 ├── main.tf
 ├── variables.tf
 ├── terraform.tfvars
-├── outputs.tf
+├── outputs.tf 
+```
 
 ## commands
 
